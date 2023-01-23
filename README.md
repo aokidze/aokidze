@@ -1,5 +1,6 @@
 
-![Retronator](https://user-images.githubusercontent.com/117418895/214174509-db14361c-fbf6-4f3a-a3c5-0f475198039e.gif)
+![Без названия](https://user-images.githubusercontent.com/117418895/214175011-7db87687-31df-4dfe-abe0-ff9559aced82.gif)
+
 
 
 ![image](https://user-images.githubusercontent.com/117418895/214171716-03f49d40-d933-43a5-adbd-88f9762147f0.png)
