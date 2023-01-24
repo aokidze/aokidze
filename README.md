@@ -1,7 +1,8 @@
-
-![Без названия](https://user-images.githubusercontent.com/117418895/214175011-7db87687-31df-4dfe-abe0-ff9559aced82.gif)
-
--------------------------------------------------------------------------------------------------------------------------
+<div id="header" align="center">
+<img src="https://user-images.githubusercontent.com/117418895/214175011-7db87687-31df-4dfe-abe0-ff9559aced82.gif"
+</div>
+  
+  -------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/117418895/214171716-03f49d40-d933-43a5-adbd-88f9762147f0.png)
 ![image](https://user-images.githubusercontent.com/117418895/214171813-599febef-24a4-4580-aaf1-bd9b95fe17d3.png)
