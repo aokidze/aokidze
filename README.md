@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <img src="https://user-images.githubusercontent.com/117418895/214175011-7db87687-31df-4dfe-abe0-ff9559aced82.gif"
 </div>
-  𝚆𝙴𝙱 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁
+
  <!---------------------------------------------------------------------------------------------------------- -->
 
 ![image](https://user-images.githubusercontent.com/117418895/214171716-03f49d40-d933-43a5-adbd-88f9762147f0.png)
