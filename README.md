@@ -28,7 +28,7 @@
 ![image](https://user-images.githubusercontent.com/117418895/214172719-8c47be8f-d5b0-4dae-b8cb-76e44ffc18c8.png)
 
 ----------------------------------------------------------------------------------------------------
-![ROG Wallpaper Design](https://user-images.githubusercontent.com/117418895/215299068-d0d48406-cb4f-4c63-8c6c-ce14ee175c7f.gif)
+
 
 
 
