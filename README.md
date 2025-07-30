@@ -1,5 +1,5 @@
 
-## 📬 Связаться со мной
+## 📬 Contact me
 
 **Email:**  
 ✉️ [arsensarkisyan82@gmail.com](mailto:arsensarkisyan82@gmail.com)
