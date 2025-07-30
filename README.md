@@ -6,3 +6,7 @@
 
 **Telegram:**  
 💬 [@aokidzwe](https://t.me/aokidzwe)
+
+**WhatsApp:**  
+💬 [@aokidzwe](https://wa.me/qr/44W2FQ6EXFNGL1)
+
